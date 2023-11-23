@@ -8,11 +8,11 @@ Just a little bit of extra bling for your [Voron Trident](https://github.com/Vor
 
 ## Bill of Materials
 
-| Component                       | Qty | Link                                                   |
-|---------------------------------|-----|--------------------------------------------------------| 
-| M3 SHCS                         |  2  |                                                        |
-| M3 T-Nut                        |  2  |                                                        |
-| 10mm High Density RGB COB Strip |  2" |  https://www.aliexpress.com/item/1005005486743999.html |
+| Component                       | Qty   | Note                                                   |
+|---------------------------------|-------|--------------------------------------------------------| 
+| M3x8 SHCS                       |  2    | for mounting                                           |
+| 2020 M3 T-Nut                   |  2    | for mounting                                           |
+| 10mm High Density RGB COB Strip |  50mm | https://www.aliexpress.com/item/1005005486743999.html  |
 
 
 ## Printing
@@ -103,3 +103,13 @@ Slice the part, and insert a pause *after* 1mm, this is where you will switch fr
 **Solder the LED wiring, and insert the LED strip, followed by the back plate.**
 
 ![Assembly Step 2](Images/assembly_2.gif)
+
+## Installation
+
+Install on the front bed extrusion of your Voron Trident, or anywhere else you think it would look cool.
+
+![Installation](Images/install.gif)
+
+--
+
+**The latest version of this mod can always be found on [GitHub](https://github.com/MapleLeafMakers/Rainbow_Serial_Bumper)**
